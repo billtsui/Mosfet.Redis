@@ -1,2 +1,2 @@
 # Mosfet.Redis
-.Net client for Redis based on NRedisStack
+A Redis helper based on NRedisStack
