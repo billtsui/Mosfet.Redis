@@ -59,3 +59,6 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 .idea
+Mosfet.Redis/.DS_Store
+.DS_Store
+*.user
